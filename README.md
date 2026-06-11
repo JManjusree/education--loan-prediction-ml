@@ -16,8 +16,7 @@ The project uses a machine learning approach to classify loan applications as ap
 - Numpy
 - Scikit-Learn
 - Jupyter Notebook
-# Dataset
-Feature 
+# Dataset Features
 - Course
 - Applicant_Income 
 - Cooapplicant_Income 
@@ -27,11 +26,11 @@ Feature
 - Loan_Amount 
 - Loan_status 
 # Machine Learning Workflow
-1 Dataset Generation
-2 Data preprocessing
-3 Model Training
-4 Prediction
-5 Evaluation
+1  Dataset Generation
+2  Data preprocessing
+3  Model Training
+4  Prediction
+5  Evaluation
 # Author 
 Jupalle Manjusree
 
