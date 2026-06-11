@@ -12,26 +12,26 @@ The project uses a machine learning approach to classify loan applications as ap
 - Model training and Prediction
 - Classification of loan status
 # Technologies Used
--Python
--Numpy
--Scikit-Learn
--Jupyter Notebook
+- Python
+- Numpy
+- Scikit-Learn
+- Jupyter Notebook
 # Dataset
-| Feature | Description |
-| Course | Student's Course |
-| Applicant_Income | Applicant income |
-| Cooapplicant_Income | Co-applicant income |
-| CIBIL_Score | Credit score |
-| Cgpa | Academic Performance |
-| Previous_score | Previous examination score |
-| Loan_Amount | Requested eduaction loan amount |
-| Loan_status | Loan approval status |
+Feature 
+- Course
+- Applicant_Income 
+- Cooapplicant_Income 
+- CIBIL_Score 
+- Cgpa
+- Previous_score 
+- Loan_Amount 
+- Loan_status 
 # Machine Learning Workflow
-1.Dataset Generation
-2.Data preprocessing
-3.Model Training
-4.Prediction
-5.Evaluation
+1 Dataset Generation
+2 Data preprocessing
+3 Model Training
+4 Prediction
+5 Evaluation
 # Author 
 Jupalle Manjusree
 
